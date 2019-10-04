@@ -1,2 +1,2 @@
 # Handwritten-Digits-CNN
-A CNN model is trained and achieved an accuracy of 99.25%
+A CNN model trained on MNIST dataset and achieved an accuracy of 99.25%
